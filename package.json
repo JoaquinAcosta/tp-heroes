@@ -1,0 +1,16 @@
+{
+  "name": "tp-c10-heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Joaquin Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
